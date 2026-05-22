@@ -1,2 +1,2 @@
 # backback
-New features added — simulataneous ...
+New features added — simulataneous
